@@ -2,7 +2,7 @@
 #include <string>
 #include "SNImage.h"
 using namespace std;
-main()//coucou
+main()//hello
 {   SNImage img;
     img.Charger("a.bmp");
     cout<<img.Hauteur()<<"x"<<img.Largeur()<<endl;
